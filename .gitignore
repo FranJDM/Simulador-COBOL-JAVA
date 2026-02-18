@@ -1,0 +1,11 @@
+# Binarios y Objetos
+*.o
+*.dll
+*.exe
+bin/
+lib/*.dll
+
+# Logs y temporales
+*.log
+LOG_CAJARIO.TXT
+.vscode/
